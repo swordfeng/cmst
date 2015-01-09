@@ -11,7 +11,7 @@
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="27"/>
         <source>Passphrase</source>
-        <translation type="unfinished"></translation>
+        <translation>密码</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="46"/>
@@ -306,30 +306,30 @@
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="65"/>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="82"/>
         <source>%L1 Bytes</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="67"/>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="84"/>
         <source>%L1 KB</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="69"/>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="86"/>
         <source>%L1 MB</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="71"/>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="88"/>
         <source>%L1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="74"/>
         <source>&lt;b&gt;Transmit:&lt;/b&gt;&lt;br&gt;TX Total: %1 (%2),  TX Errors: %3,  TX Dropped: %4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;b&gt;已传输：&lt;/b&gt;&lt;br&gt;TX Total: %1 (%2),  TX Errors: %3,  TX Dropped: %4</translation>
     </message>
     <message numerus="yes">
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="75"/>
@@ -339,46 +339,46 @@
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="94"/>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="95"/>
         <source>%Ln Packet(s)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="91"/>
         <source>&lt;br&gt;&lt;br&gt;&lt;b&gt;Received:&lt;/b&gt;&lt;br&gt;RX Total: %1 (%2),  RX Errors: %3,  RX Dropped: %4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;br&gt;&lt;br&gt;&lt;b&gt;已接收：&lt;/b&gt;&lt;br&gt;RX Total: %1 (%2),  RX Errors: %3,  RX Dropped: %4</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="98"/>
         <source>&lt;br&gt;&lt;br&gt;&lt;b&gt;Connect Time:&lt;/b&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br&gt;&lt;br&gt;&lt;b&gt;连接时间：&lt;/b&gt;&lt;br&gt;</translation>
     </message>
     <message numerus="yes">
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="109"/>
         <source>%n Day(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 日</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="116"/>
         <source>%n Hour(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 时</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="123"/>
         <source>%n Minute(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 分</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="129"/>
         <source>%n Second(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 秒</numerusform>
         </translation>
     </message>
 </context>
@@ -392,17 +392,17 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="40"/>
         <source>&amp;Status</source>
-        <translation type="unfinished"></translation>
+        <translation>状态(&amp;S)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="61"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This checkbox controls the global setting for switching all radios on or off. When checked all radios are powered down.&lt;/p&gt;&lt;p&gt;When the system is In offline mode it is possible to turn individual devices back on. When leaving offline mode the individual policy of each device determines if the radio is turned back on or not.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这个复选框控制全部网络连接的开关。当被选中时，所有网络连接都将被关闭。&lt;/p&gt;&lt;p&gt;当系统处于飞行模式时，这个开关可能重新打开个人设备。 When leaving offline mode the individual policy of each device determines if the radio is turned back on or not.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="64"/>
         <source>All Devices &amp;Off</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭所有设备(&amp;O)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="73"/>
@@ -412,7 +412,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="76"/>
         <source>Global Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>全局设置</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="82"/>
@@ -422,7 +422,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="85"/>
         <source>OfflineMode: Unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>飞行模式：不可用</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="162"/>
@@ -432,7 +432,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="165"/>
         <source>State: Unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>状态：不可用</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="175"/>
@@ -442,35 +442,35 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="178"/>
         <source>Technologies</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">网络类型</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="221"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="325"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="556"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="226"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="231"/>
         <source>Powered</source>
-        <translation type="unfinished"></translation>
+        <translation>已启用</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="236"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="566"/>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>已连接</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="241"/>
         <source>Tethering</source>
-        <translation type="unfinished"></translation>
+        <translation>热点</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="264"/>
@@ -480,7 +480,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="267"/>
         <source>Resc&amp;an</source>
-        <translation type="unfinished"></translation>
+        <translation>重新扫描(&amp;A)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="279"/>
@@ -490,17 +490,17 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="282"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>服务</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="330"/>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation>状态</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="335"/>
         <source>Connection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接名称</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="348"/>
@@ -511,7 +511,7 @@
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="351"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1469"/>
         <source>Move Before</source>
-        <translation type="unfinished"></translation>
+        <translation>上移</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="361"/>
@@ -522,7 +522,7 @@
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="364"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1474"/>
         <source>Move After</source>
-        <translation type="unfinished"></translation>
+        <translation>下移</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="384"/>
@@ -537,17 +537,17 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="390"/>
         <source>&amp;Less</source>
-        <translation type="unfinished"></translation>
+        <translation>更少信息(&amp;L)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="406"/>
         <source>&amp;Details</source>
-        <translation type="unfinished"></translation>
+        <translation>详细信息(&amp;D)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="418"/>
         <source>Ser&amp;vice</source>
-        <translation type="unfinished"></translation>
+        <translation>服务(&amp;V)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="428"/>
@@ -562,12 +562,12 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="503"/>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="513"/>
         <source>&amp;Wireless</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无线网络(&amp;W)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="519"/>
@@ -577,22 +577,22 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="561"/>
         <source>Favorite</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">已保存</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="571"/>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>安全性</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="576"/>
         <source>Signal Strength</source>
-        <translation type="unfinished"></translation>
+        <translation>信号强度</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="584"/>
         <source>Wireless Services</source>
-        <translation type="unfinished"></translation>
+        <translation>无线网络服务</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="590"/>
@@ -602,7 +602,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="593"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>连接</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="600"/>
@@ -612,7 +612,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="603"/>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>断开</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="610"/>
@@ -622,7 +622,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="613"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忘记</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="626"/>
@@ -632,12 +632,12 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="629"/>
         <source>Wifi State</source>
-        <translation type="unfinished"></translation>
+        <translation>Wifi 状态</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="653"/>
         <source>&amp;Counters</source>
-        <translation type="unfinished"></translation>
+        <translation>统计(&amp;C)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="659"/>
@@ -647,7 +647,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="662"/>
         <source>Service:</source>
-        <translation type="unfinished"></translation>
+        <translation>服务：</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="675"/>
@@ -657,13 +657,13 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="678"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本地</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="705"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="761"/>
         <source>Counter not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>统计不可用。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="731"/>
@@ -673,7 +673,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="734"/>
         <source>Roaming</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">漫游</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="794"/>
@@ -693,7 +693,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="811"/>
         <source>&amp;Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>设置(&amp;P)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="817"/>
@@ -713,7 +713,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="832"/>
         <source>Retain Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">保存设置</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="839"/>
@@ -723,7 +723,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="842"/>
         <source>Enable ToolTips (Interface)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启用提示</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="852"/>
@@ -733,7 +733,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="855"/>
         <source>Reset Counters</source>
-        <translation type="unfinished"></translation>
+        <translation>重置统计</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="862"/>
@@ -743,7 +743,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="865"/>
         <source>Advanced Controls</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">高级</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="881"/>
@@ -753,7 +753,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="884"/>
         <source>Start Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启动选项</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="890"/>
@@ -764,7 +764,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="894"/>
         <source>Disable Tray Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用系统托盘图标</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="904"/>
@@ -995,12 +995,12 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1282"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>帮助(&amp;H)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1288"/>
         <source>&amp;About</source>
-        <translation type="unfinished"></translation>
+        <translation>关于(&amp;A)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1294"/>
@@ -1085,7 +1085,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1450"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished"></translation>
+        <translation>退出(&amp;X)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1457"/>
@@ -1096,17 +1096,17 @@
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1460"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="279"/>
         <source>Mi&amp;nimize</source>
-        <translation type="unfinished"></translation>
+        <translation>最小化(&amp;N)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="280"/>
         <source>Ma&amp;ximize</source>
-        <translation type="unfinished"></translation>
+        <translation>最大化(&amp;X)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="283"/>
         <source>&amp;Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>退出(&amp;E)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="363"/>
@@ -1696,7 +1696,7 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="47"/>
         <source>AutoConnect</source>
-        <translation type="unfinished"></translation>
+        <translation>自动连接</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="76"/>
@@ -1706,7 +1706,7 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="79"/>
         <source>&amp;Nameservers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DNS服务器(&amp;N)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="110"/>
@@ -1716,7 +1716,7 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="113"/>
         <source>&amp;TImeservers</source>
-        <translation type="unfinished"></translation>
+        <translation>时间服务器(&amp;T)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="144"/>
@@ -1726,7 +1726,7 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="147"/>
         <source>&amp;Domains</source>
-        <translation type="unfinished"></translation>
+        <translation>域(&amp;D)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="178"/>
@@ -1736,49 +1736,49 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="181"/>
         <source>IPv&amp;4</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="192"/>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="333"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>地址</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="202"/>
         <source>Netmask</source>
-        <translation type="unfinished"></translation>
+        <translation>子网掩码</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="209"/>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="299"/>
         <source>Gateway</source>
-        <translation type="unfinished"></translation>
+        <translation>网关</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="220"/>
         <source>DHCP</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="225"/>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="286"/>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="419"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>手动</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="230"/>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="291"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>关</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="238"/>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="359"/>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="401"/>
         <source>Method</source>
-        <translation type="unfinished"></translation>
+        <translation>方法</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="269"/>
@@ -1788,18 +1788,18 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="272"/>
         <source>IPv&amp;6</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="281"/>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="414"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>自动</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="313"/>
         <source>Prefix Length</source>
-        <translation type="unfinished"></translation>
+        <translation>前缀长度</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="323"/>
@@ -1809,17 +1809,17 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="341"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="346"/>
         <source>Preferred</source>
-        <translation type="unfinished"></translation>
+        <translation>可选</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="351"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>启用</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="390"/>
@@ -1829,12 +1829,12 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="393"/>
         <source>&amp;Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>代理(&amp;P)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="409"/>
         <source>Direct</source>
-        <translation type="unfinished"></translation>
+        <translation>直接连接</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="435"/>
@@ -1849,7 +1849,7 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="466"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="473"/>
@@ -1859,7 +1859,7 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="480"/>
         <source>Excludes</source>
-        <translation type="unfinished"></translation>
+        <translation>排除</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="487"/>
@@ -1899,7 +1899,7 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="605"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>确定</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="612"/>
@@ -1909,7 +1909,7 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="615"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
