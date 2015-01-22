@@ -33,6 +33,7 @@ DEALINGS IN THE SOFTWARE.
 # include <QStyleFactory>
 # include <QLocalSocket>
 # include <signal.h>   
+# include <QSessionManager>
 
 # include "./control_box/controlbox.h"
 # include "../resource.h" 
@@ -40,7 +41,7 @@ DEALINGS IN THE SOFTWARE.
 
 // Create a signal handler to catch ^C from console
 void signalhandler(int sig) {
-  if(sig==SIGINT) {
+  if(sig == SIGINT || sig == SIGTERM) {
     qApp->quit();
   }
   
@@ -168,6 +169,6 @@ int main(int argc, char *argv[])
   // Showing the dialog (or not) is controlled in the createSystemTrayIcon() function
   // called from the ControlBox constructor.  We don't show it from here.             
   ControlBox ctlbox(parser);
-  return app.exec();
+  return app.exec(); 
 }
 
