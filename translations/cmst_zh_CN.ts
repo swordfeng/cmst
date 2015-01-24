@@ -16,7 +16,7 @@
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="46"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If an old passphrase is avaliable it will be shown here for reference.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;如果旧密码可用，它会被显示在这里作为参考。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;如果旧密码可用，它会被显示在这里作为参考。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="53"/>
@@ -141,7 +141,7 @@
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="292"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Connman is requesting that you open a web browser to complete the login process.&lt;/p&gt;&lt;p&gt;We have scanned your PATH for browsers and any browsers we found are shown below as active. You may select any one browser to use it for the login. If your web browser is not shown active, or is not listed at all, select &lt;span style=&quot; font-weight:600;&quot;&gt;Other&lt;/span&gt; and type the command you would use to start your browser from a command line in the text box. To launch the browser click the &lt;span style=&quot; font-weight:600;&quot;&gt;Launch Browser&lt;/span&gt; button. &lt;/p&gt;&lt;p&gt;If you wish to login manually close this dialog, start your web browser and proceed to the URL shown below:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Connman 需要使用浏览器完成登录。&lt;/p&gt;&lt;p&gt;检测到下列可用的浏览器。选择一个用作登录。如果你的浏览器不可用或未被列出，请选择 &lt;span style=&quot; font-weight:600;&quot;&gt;其它&lt;/span&gt; 并在文本框内输入启动浏览器的命令行。单击&lt;span style=&quot; font-weight:600;&quot;&gt;启动浏览器r&lt;/span&gt;按钮启动你的浏览器。 &lt;/p&gt;&lt;p&gt;如果你想手动登录，请关闭这个对话框，并启动你的浏览器打开以下网址：&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Connman 需要使用浏览器完成登录。&lt;/p&gt;&lt;p&gt;检测到下列可用的浏览器。选择一个用作登录。如果你的浏览器不可用或未被列出，请选择 &lt;span style=&quot; font-weight:600;&quot;&gt;其它&lt;/span&gt; 并在文本框内输入启动浏览器的命令行。单击&lt;span style=&quot; font-weight:600;&quot;&gt;启动浏览器&lt;/span&gt;按钮启动你的浏览器。 &lt;/p&gt;&lt;p&gt;如果你想手动登录，请关闭这个对话框，并启动你的浏览器打开以下网址：&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="307"/>
@@ -241,7 +241,7 @@
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="452"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Accept and use the answers you have provided in this dialog. &lt;/p&gt;&lt;p&gt;This will send your input to the connman daemon to continue the connection process.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;接受并使用你在该对话框中的答案。&lt;/p&gt;&lt;p&gt;该操作将把你的输入发送给connman守护进程以继续连接。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;接受并使用你在该对话框中的答案。&lt;/p&gt;&lt;p&gt;这将把你的输入发送给connman守护进程以继续连接。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="455"/>
