@@ -1169,518 +1169,518 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="535"/>
         <source>Unable to determine service</source>
-        <translation type="unfinished"></translation>
+        <translation>无法确定服务</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="556"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="600"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="623"/>
         <source>No Services Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>未选择服务</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="557"/>
         <source>You need to select a Wifi service before pressing the connect button.</source>
-        <translation type="unfinished"></translation>
+        <translation>在按下连接按钮之前，你需要选择一个Wifi服务。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="601"/>
         <source>You need to select a Wifi service before pressing the disconnect button.</source>
-        <translation type="unfinished"></translation>
+        <translation>在按下断开按钮之前，你需要选择一个Wifi服务。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="624"/>
         <source>You need to select a Wifi service before pressing the remove button.</source>
-        <translation type="unfinished"></translation>
+        <translation>在按下忘记按钮之前，你需要选择一个Wifi服务。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="651"/>
         <source>Offline Mode Engaged</source>
-        <translation type="unfinished"></translation>
+        <translation>飞行模式已开启</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="655"/>
         <source>Offline Mode Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>飞行模式已禁用</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="690"/>
         <source>%1 (%2) Network</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2) 网络</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="691"/>
         <source>Connection: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>连接: %1</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="704"/>
         <source>Network Services:</source>
-        <translation type="unfinished"></translation>
+        <translation>网络服务:</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="705"/>
         <source>No network services available</source>
-        <translation type="unfinished"></translation>
+        <translation>无可用网络服务</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="930"/>
         <source>Service Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>服务错误: %1</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="931"/>
         <source>Object Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>对象路径: %1</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="997"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1912"/>
         <source> Warning</source>
-        <translation type="unfinished"></translation>
+        <translation> 警告</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="998"/>
         <source>&lt;center&gt;&lt;b&gt;We received a DBUS reply message indicating an error while trying to scan technologies.&lt;/b&gt;&lt;/center&gt;&lt;br&gt;&lt;br&gt;Error Name: %1&lt;br&gt;&lt;br&gt;Error Message: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;center&gt;&lt;b&gt;扫描设备时收到了一个来自DBUS的错误消息。&lt;/b&gt;&lt;/center&gt;&lt;br&gt;&lt;br&gt;错误名称: %1&lt;br&gt;&lt;br&gt;错误消息: %2</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1113"/>
         <source>&lt;b&gt;Connection:&lt;/b&gt; %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;连接:&lt;/b&gt; %1</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1116"/>
         <source>&lt;br&gt;&lt;b&gt;Service Details:&lt;/b&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br&gt;&lt;b&gt;服务详情:&lt;/b&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1118"/>
         <source>Service Type: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>服务类型: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1119"/>
         <source>Service State: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>服务状态: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1120"/>
         <source>Favorite: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>已保存: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1120"/>
         <source>Yes</source>
         <comment>favorite</comment>
-        <translation type="unfinished"></translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1120"/>
         <source>No</source>
         <comment>favorite</comment>
-        <translation type="unfinished"></translation>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1121"/>
         <source>External Configuration File: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>外部配置文件: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1121"/>
         <source>Yes</source>
         <comment>immutable</comment>
-        <translation type="unfinished"></translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1121"/>
         <source>No</source>
         <comment>immutable</comment>
-        <translation type="unfinished"></translation>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1123"/>
         <source>Auto Connect: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>自动连接: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1123"/>
         <source>On</source>
         <comment>autoconnect</comment>
-        <translation type="unfinished"></translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1123"/>
         <source>No</source>
         <comment>autoconnect</comment>
-        <translation type="unfinished"></translation>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1125"/>
         <source>&lt;br&gt;&lt;b&gt;IPv4&lt;/b&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1127"/>
         <source>IP Address Acquisition: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>IP 地址获取: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1128"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1135"/>
         <source>IP Address: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>IP 地址: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1129"/>
         <source>IP Netmask: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>IP 子网掩码: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1130"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1141"/>
         <source>IP Gateway: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>IP 网关: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1132"/>
         <source>&lt;br&gt;&lt;b&gt;IPv6&lt;/b&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1134"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1147"/>
         <source>Address Acquisition: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>地址获取: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1138"/>
         <source>Prefix Length: &lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>前缀长度: &lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1140"/>
         <source>Prefix Length: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>前缀长度: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1142"/>
         <source>Privacy: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>隐私: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1144"/>
         <source>&lt;br&gt;&lt;b&gt;Proxy&lt;/b&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br&gt;&lt;b&gt;代理&lt;/b&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1149"/>
         <source>URL: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1152"/>
         <source>Servers:&lt;br&gt;&amp;nbsp;&amp;nbsp;%1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器:&lt;br&gt;&amp;nbsp;&amp;nbsp;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1153"/>
         <source>Excludes:&lt;br&gt;&amp;nbsp;&amp;nbsp;%1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>排除:&lt;br&gt;&amp;nbsp;&amp;nbsp;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1160"/>
         <source>&lt;br&gt;&lt;b&gt;Name Servers&lt;/b&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br&gt;&lt;b&gt;DNS&lt;/b&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1163"/>
         <source>&lt;br&gt;&lt;br&gt;&lt;b&gt;Time Servers&lt;/b&gt;&lt;br&gt;  </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br&gt;&lt;br&gt;&lt;b&gt;时间服务器&lt;/b&gt;&lt;br&gt;  </translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1166"/>
         <source>&lt;br&gt;&lt;br&gt;&lt;b&gt;Search Domains&lt;/b&gt;&lt;br&gt;  </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br&gt;&lt;br&gt;&lt;b&gt;搜索域&lt;/b&gt;&lt;br&gt;  </translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1169"/>
         <source>&lt;br&gt;&lt;br&gt;&lt;b&gt;Ethernet&lt;/b&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br&gt;&lt;br&gt;&lt;b&gt;以太网&lt;/b&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1171"/>
         <source>Connection Method: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>连接方式: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1172"/>
         <source>Interface: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>接口: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1173"/>
         <source>Device Address: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>设备地址: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1174"/>
         <source>MTU: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1176"/>
         <source>&lt;br&gt;&lt;b&gt;Wireless&lt;/b&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br&gt;&lt;b&gt;无线&lt;/b&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1177"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1597"/>
         <source>Security: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>安全性: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1178"/>
         <source>Strength: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>强度: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1179"/>
         <source>Roaming: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>漫游: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1179"/>
         <source>Yes</source>
         <comment>roaming</comment>
-        <translation type="unfinished"></translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1179"/>
         <source>No</source>
         <comment>roaming</comment>
-        <translation type="unfinished"></translation>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1314"/>
         <source>State: </source>
-        <translation type="unfinished"></translation>
+        <translation>状态: </translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1320"/>
         <source>Engaged</source>
-        <translation type="unfinished"></translation>
+        <translation>启用</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1325"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1328"/>
         <source>Offline Mode </source>
-        <translation type="unfinished"></translation>
+        <translation>飞行模式</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1361"/>
         <source>%1On%1%1</source>
         <comment>powered</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1开%1%1</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1366"/>
         <source>%1Off%1%1</source>
         <comment>powered</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1关%1%1</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1374"/>
         <source>Yes</source>
         <comment>connected</comment>
-        <translation type="unfinished"></translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1374"/>
         <source>No</source>
         <comment>connected</comment>
-        <translation type="unfinished"></translation>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1380"/>
         <source>Yes</source>
         <comment>tethered</comment>
-        <translation type="unfinished"></translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1380"/>
         <source>No</source>
         <comment>tethered</comment>
-        <translation type="unfinished"></translation>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1476"/>
         <source>  WiFi Technologies:&lt;br&gt;  %1 Found, %2 Powered</source>
-        <translation type="unfinished"></translation>
+        <translation>  WiFi 设备:&lt;br&gt;  %1 已找到, %2 已启用</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1555"/>
         <source>Update resolution of the counters is based on a threshold of %L1 KB of data and %L2 seconds of time.</source>
-        <translation type="unfinished"></translation>
+        <translation>统计更新的阈值是 %L1 KB 的数据和 %L2 秒的时间。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1585"/>
         <source>Ethernet Connection&lt;br&gt;</source>
         <comment>icon_tool_tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>以太网连接&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1586"/>
         <source>Service: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>服务: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1587"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1599"/>
         <source>Interface: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>接口: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1594"/>
         <source>WiFi Connection&lt;br&gt;</source>
         <comment>icon_tool_tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>WiFi 连接&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1596"/>
         <source>SSID: %1&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1598"/>
         <source>Strength: %1%&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>强度: %1%&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1618"/>
         <source>Connection is in the Ready State.</source>
         <comment>icon_tool_tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>连接处于就绪状态。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1629"/>
         <source>Connection is in the Failure State, attempting to reestablish the connection</source>
         <comment>icon_tool_tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>连接处于失败状态，尝试重新建立连接</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1635"/>
         <source>Connection is in the Failure State.</source>
         <comment>icon_tool_tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>连接处于失败状态。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1643"/>
         <source>Not Connected</source>
         <comment>icon_tool_tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>未连接</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1652"/>
         <source>Error retrieving properties via Dbus</source>
-        <translation type="unfinished"></translation>
+        <translation>从DBUS取回属性失败</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1653"/>
         <source>Connection status is unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>连接状态未知</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1913"/>
         <source>&lt;center&gt;&lt;b&gt;Unable to find a systemtray on this machine.&lt;/b&gt;&lt;center&gt;&lt;br&gt;The program may still be used to manage your connections, but the tray icon will be disabled.&lt;center&gt;&lt;br&gt;&lt;br&gt;If you are seeing this message at system start up and you know a system tray exists once the system is up, try starting with the &lt;b&gt;-w&lt;/b&gt; switch and set a delay as necessary.  The exact wait time will vary from system to system.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;center&gt;&lt;b&gt;未能在此机上找到系统托盘。&lt;/b&gt;&lt;center&gt;&lt;br&gt;此程序仍可用于管理你的连接，但是托盘图标会被禁用。&lt;center&gt;&lt;br&gt;&lt;br&gt;如果你在系统启动时看到这个信息，并且你知道当系统启动时系统托盘存在，尝试用 &lt;b&gt;-w&lt;/b&gt; 参数启动本程序，并在有必要的情况下设置一个延迟时间。  实际的等待时间因不同系统而异。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2144"/>
         <source>Could not find a connection to the system bus</source>
-        <translation type="unfinished"></translation>
+        <translation>无法连接到system bus</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2145"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2150"/>
         <source>%1 - Critical Error</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - 严重错误</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2146"/>
         <source>Unable to find a connection to the system bus.&lt;br&gt;&lt;br&gt;%1 will not be able to communicate with connman.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法连接到system bus。&lt;br&gt;&lt;br&gt;%1 将无法与connman通信。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2149"/>
         <source>Could not create an interface to connman on the system bus</source>
-        <translation type="unfinished"></translation>
+        <translation>无法在 system bus 上创建与connman通信的接口</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2151"/>
         <source>Unable to create an interface to connman on the system bus.&lt;br&gt;&lt;br&gt;%1 will not be able to communicate with connman.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法在 system bus 上创建与connman通信的接口。&lt;br&gt;&lt;br&gt;%1 将无法与connman通信。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2154"/>
         <source>Error reading or parsing connman.Manager.GetProperties</source>
-        <translation type="unfinished"></translation>
+        <translation>在读取或解析connman.Manager.GetProperties时发生错误</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2155"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2160"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2165"/>
         <source>%1 - Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - 警告</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2156"/>
         <source>There was an error reading or parsing the reply from method connman.Manager.GetProperties.&lt;br&gt;&lt;br&gt;It is unlikely any portion of %1 will be functional.</source>
-        <translation type="unfinished"></translation>
+        <translation>在读取或解析connman.Manager.GetProperties的回应时发生了一个错误。&lt;br&gt;&lt;br&gt;%1 可能不工作。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2159"/>
         <source>Error reading or parsing connman.Manager.GetTechnologies</source>
-        <translation type="unfinished"></translation>
+        <translation>在读取或解析connman.Manager.GetProperties时发生错误</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2161"/>
         <source>There was an error reading or parsing the reply from method connman.Manager.GetTechnologies.&lt;br&gt;&lt;br&gt;Some portion of %1 may still be functional.</source>
-        <translation type="unfinished"></translation>
+        <translation>在读取或解析connman.Manager.GetProperties的回应时发生了一个错误。&lt;br&gt;&lt;br&gt;%1 部分功能可能仍可以工作。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2164"/>
         <source>Error reading or parsing connman.Manager.GetServices</source>
-        <translation type="unfinished"></translation>
+        <translation>在读取或解析connman.Manager.GetProperties时发生错误</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2166"/>
         <source>There was an error reading or parsing the reply from method connman.Manager.GetServices.&lt;br&gt;&lt;br&gt;Some portion of %1 may still be functional.</source>
-        <translation type="unfinished"></translation>
+        <translation>在读取或解析connman.Manager.GetProperties的回应时发生了一个错误。&lt;br&gt;&lt;br&gt;%1 部分功能可能仍可以工作。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2251"/>
         <source>%1 version %2 by %3 has been detected on this system.&lt;p&gt;This server supports desktop Notification Specification version %4</source>
-        <translation type="unfinished"></translation>
+        <translation>检测到 %1 版本 %2 by %3 。&lt;p&gt;这个服务支持桌面通知规范 版本 %4</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2258"/>
         <source>%1 detected</source>
-        <translation type="unfinished"></translation>
+        <translation>检测到 %1</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2264"/>
         <source>Attempt %1 of 4 looking for notification server.</source>
-        <translation type="unfinished"></translation>
+        <translation>尝试 %1 of 4 查找通知服务。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2267"/>
         <source>Unable to find or connect to a Notification server.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法找到或连接通知服务。</translation>
     </message>
 </context>
 <context>
@@ -1688,17 +1688,17 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="14"/>
         <source>Property Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>设置编辑器</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="38"/>
         <source>&amp;General</source>
-        <translation type="unfinished"></translation>
+        <translation>通用(&amp;G)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="44"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked this service will auto-connect when no other connection is available. This is only available for services marked &amp;quot;Favorite&amp;quot;. &lt;/p&gt;&lt;p&gt;The service will not auto-connect while roaming.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;若勾选，这个服务将在没有其它可用连接时自动连接。这个只能被标记为 &amp;quot;已保存&amp;quot;的服务使用。 &lt;/p&gt;&lt;p&gt;漫游时，服务将不会自动连接。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="47"/>
@@ -1708,17 +1708,17 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="76"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The list of manually configured domain name servers. Some cellular networks don&apos;t provide correct name servers and this allows for an override.&lt;/p&gt;&lt;p&gt;This array is sorted by priority and the first entry in the list represents the nameserver with the highest priority.&lt;/p&gt;&lt;p&gt;When using manual configuration and no global nameservers are configured, then it is useful to configure this setting.&lt;/p&gt;&lt;p&gt;Enter one or more IP addresses.  Separate each address you enter by a comma, semi-colon, or by white space.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;手动配置的DNS服务器列表。部分蜂窝网络不提供正确的域名解析服务器，这个列表能覆盖设置。&lt;/p&gt;&lt;p&gt;这个列表按照优先级排序，列表中的第一项表示最优先的DNS服务器。&lt;/p&gt;&lt;p&gt;当处于手动模式且没有设置全局域名服务器时，这项设置十分有用。&lt;/p&gt;&lt;p&gt;输入一个或多个IP地址。  用英文逗号、分号或空格分隔不同地址。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="79"/>
         <source>&amp;Nameservers</source>
-        <translation type="unfinished">DNS服务器(&amp;N)</translation>
+        <translation>DNS服务器(&amp;N)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="110"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The list of manually configured time servers.&lt;/p&gt;&lt;p&gt;The first entry in the list represents the timeserver with the highest priority.&lt;/p&gt;&lt;p&gt;When using manual configuration this setting is useful to override all the other timeserver settings. This is service specific, hence only the values for the default service are used.&lt;/p&gt;&lt;p&gt;Changes to this property will result in restart of NTP query.&lt;/p&gt;&lt;p&gt;Enter one or more IP addresses.  Separate each address you enter by a comma, semi-colon, or by white space.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The list of manually configured time servers.&lt;/p&gt;&lt;p&gt;The first entry in the list represents the timeserver with the highest priority.&lt;/p&gt;&lt;p&gt;When using manual configuration this setting is useful to override all the other timeserver settings. This is service specific, hence only the values for the default service are used.&lt;/p&gt;&lt;p&gt;Changes to this property will result in restart of NTP query.&lt;/p&gt;&lt;p&gt;Enter one or more IP addresses.  Separate each address you enter by a comma, semi-colon, or by white space.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="113"/>
@@ -2441,12 +2441,12 @@
     <message>
         <location filename="../apps/rootapp/code/roothelper/roothelper.cpp" line="64"/>
         <source>Failed to register service org.cmst.roothelper - there may be another instance running.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法注册服务 org.cmst.roothelper —— 可能已经在运行。</translation>
     </message>
     <message>
         <location filename="../apps/rootapp/code/roothelper/roothelper.cpp" line="70"/>
         <source>Failed to register roothelper object on the system bus.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法在system bus上注册roothelper对象。</translation>
     </message>
 </context>
 <context>
@@ -2454,12 +2454,12 @@
     <message>
         <location filename="../apps/cmstapp/code/scrollbox/ui/scrollbox.ui" line="14"/>
         <source>Scrollbox</source>
-        <translation type="unfinished"></translation>
+        <translation>滚动框</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/scrollbox/ui/scrollbox.ui" line="38"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>文本标签</translation>
     </message>
 </context>
 <context>
