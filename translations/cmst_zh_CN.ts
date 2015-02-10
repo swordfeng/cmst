@@ -1924,72 +1924,72 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="14"/>
         <source>Provisioning Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>配置编辑器</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="23"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Text edit window.&lt;/p&gt;&lt;p&gt;You may type or cut and paste into this window. You may also use menus above to insert text fields.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;文本编辑窗口。&lt;/p&gt;&lt;p&gt;你可以在窗口里输入、复制或粘贴。你也可以使用上方的菜单插入文本&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="32"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Open an existing config file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;打开已经存在的配置文件。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="35"/>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>打开(&amp;O)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="48"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Write the displayed data to a config file.&lt;/p&gt;&lt;p&gt;The combo box is seeded with a list of CMST created config files to provide an easy way to overwrite one. You may also type a name in the ComboBox.&lt;/p&gt;&lt;p&gt;It is not necessary to provide a path nor a file extension as both will be stripped out and replaced allowed values. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;把文本框内的数据写入配置文件。&lt;/p&gt;&lt;p&gt;选择框内会有一系列cmst创建的配置文件以便覆盖。你也可以在框内输入一个名字。&lt;/p&gt;&lt;p&gt;你不需要写路径或后缀名，因为它们会被去掉并用合法的路径和后缀名取代。 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="51"/>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>保存(&amp;S)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="68"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Delete a config file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;删除一个配置文件&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="71"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>删除(&amp;D)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="94"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Clear all text from the editor window.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;清除编辑器窗口内的所有文字。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="97"/>
         <source>&amp;Clear Page</source>
-        <translation type="unfinished"></translation>
+        <translation>清除页面(&amp;C)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="111"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;What&apos;s This&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这是什么？&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="114"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enter &amp;quot;Whats This&amp;quot; mode.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;进入 &amp;quot;这是什么？&amp;quot; 模式。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="137"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Exit the dialog.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;退出对话框。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="140"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished"></translation>
+        <translation>退出(&amp;X)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="155"/>
@@ -2000,12 +2000,12 @@
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="160"/>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="223"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="165"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>描述</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="170"/>
@@ -2015,7 +2015,7 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="178"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="186"/>
@@ -2025,62 +2025,62 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="194"/>
         <source>Nameservers</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS服务器</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="202"/>
         <source>Timeservers</source>
-        <translation type="unfinished"></translation>
+        <translation>时间服务器</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="210"/>
         <source>SearchDomains</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索域</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="218"/>
         <source>Domain</source>
-        <translation type="unfinished"></translation>
+        <translation>域</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="231"/>
         <source>SSID</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="239"/>
         <source>EAP</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="247"/>
         <source>CACertFile</source>
-        <translation type="unfinished"></translation>
+        <translation>CA证书文件</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="255"/>
         <source>ClientCertFile</source>
-        <translation type="unfinished"></translation>
+        <translation>客户端证书文件</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="263"/>
         <source>PrivateKeyFile</source>
-        <translation type="unfinished"></translation>
+        <translation>私钥文件</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="268"/>
         <source>PrivateKeyPassphrase</source>
-        <translation type="unfinished"></translation>
+        <translation>私钥密码</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="276"/>
         <source>PrivateKeyPassphraseType</source>
-        <translation type="unfinished"></translation>
+        <translation>私钥密码类型</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="281"/>
         <source>Identity</source>
-        <translation type="unfinished"></translation>
+        <translation>身份</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="289"/>
@@ -2090,17 +2090,17 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="294"/>
         <source>Passphrase</source>
-        <translation type="unfinished"></translation>
+        <translation>密码</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="302"/>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>安全性</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="310"/>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="315"/>
@@ -2115,37 +2115,37 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="328"/>
         <source>IPv4 Address</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv4 地址</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="336"/>
         <source>IPv4 Off</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv4 关</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="344"/>
         <source>IPV4 DHCP</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="352"/>
         <source>IPv6 Address</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6 地址</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="360"/>
         <source>IPv6 Off</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6 关</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="368"/>
         <source>IPv6 Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6 自动</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="373"/>
         <source>IPv6.Privacy</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6 隐私</translation>
     </message>
 </context>
 <context>
@@ -2153,17 +2153,17 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="191"/>
         <source>Global</source>
-        <translation type="unfinished"></translation>
+        <translation>全局</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="197"/>
         <source>Service</source>
-        <translation type="unfinished"></translation>
+        <translation>服务</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="217"/>
         <source>WiFi</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="237"/>
@@ -2173,122 +2173,122 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="269"/>
         <source>File Path to the CA Certificate File</source>
-        <translation type="unfinished"></translation>
+        <translation>CA证书文件路径</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="270"/>
         <source>File Path to the Client Certificate File</source>
-        <translation type="unfinished"></translation>
+        <translation>客户端证书文件路径</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="271"/>
         <source>File path to the Client Private Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>私钥文件路径</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="276"/>
         <source>Key Files (*.pem);;All Files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>密钥文件 (*.pem);;全部文件 (*.*)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="300"/>
         <source>MAC address.</source>
-        <translation type="unfinished"></translation>
+        <translation>MAC 地址。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="301"/>
         <source>SSID: hexadecimal representation of an 802.11 SSID</source>
-        <translation type="unfinished"></translation>
+        <translation>SSID: 802.11 SSID 的十六进制表示</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="302"/>
         <source>List of Nameservers</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS服务器列表</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="303"/>
         <source>List of Timeservers</source>
-        <translation type="unfinished"></translation>
+        <translation>时间服务器列表</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="304"/>
         <source>List of DNS Search Domains</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS搜索域列表</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="305"/>
         <source>Domain name to be used</source>
-        <translation type="unfinished"></translation>
+        <translation>所使用的域名</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="306"/>
         <source>Enter the string representation of an 802.11 SSID.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入 802.11 SSID 的字符串表示。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="340"/>
         <source>Service type.</source>
-        <translation type="unfinished"></translation>
+        <translation>服务类型。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="341"/>
         <source>EAP type.</source>
-        <translation type="unfinished"></translation>
+        <translation>EAP 类型。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="342"/>
         <source>Private key passphrase type.</source>
-        <translation type="unfinished"></translation>
+        <translation>私钥密码类型。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="343"/>
         <source>Network security type.</source>
-        <translation type="unfinished"></translation>
+        <translation>网络安全类型。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="344"/>
         <source>Hidden network</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏网络</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="345"/>
         <source>IPv6 Privacy</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6 隐私</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="348"/>
         <source>%1 - Item Input</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - 项目输入</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="373"/>
         <source>Tag which will replace the * with&lt;br&gt;an identifier unique to the config file.</source>
-        <translation type="unfinished"></translation>
+        <translation>替换 * 的标签名&lt;br&gt;配置文件的唯一标识。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="374"/>
         <source>Enter the network name.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入网络名称。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="375"/>
         <source>Enter a description of the network.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入网络的描述。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="376"/>
         <source>Password/Passphrase for the private key file.</source>
-        <translation type="unfinished"></translation>
+        <translation>私钥文件的密码。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="377"/>
         <source>Identity string for EAP.</source>
-        <translation type="unfinished"></translation>
+        <translation>EAP的身份字符串。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="378"/>
         <source>RSN/WPA/WPA2 Passphrase</source>
-        <translation type="unfinished"></translation>
+        <translation>RSN/WPA/WPA2 密码</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="379"/>
@@ -2298,7 +2298,7 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="391"/>
         <source>%1 - Text Input</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - 文本输入</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="416"/>
@@ -2306,134 +2306,134 @@
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="573"/>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="611"/>
         <source> Information</source>
-        <translation type="unfinished"></translation>
+        <translation>信息</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="417"/>
         <source>The IPv4 &lt;b&gt;Address&lt;/b&gt;, &lt;b&gt;Netmask&lt;/b&gt;, and optionally &lt;b&gt;Gateway&lt;/b&gt; need to be provided.&lt;p&gt;Press OK when you are ready to proceed.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入IPv4 的&lt;b&gt;地址&lt;/b&gt;、&lt;b&gt;子网掩码&lt;/b&gt;，和可选的&lt;b&gt;网关&lt;/b&gt;。&lt;p&gt;准备就绪时，按确定。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="422"/>
         <source>IPv4 Address</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv4 地址</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="427"/>
         <source>IPv4 Netmask</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv4 子网掩码</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="432"/>
         <source>IPv4 Gateway (This is an optional entry)</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv4 网关 （可选）</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="462"/>
         <source>The IPv6 &lt;b&gt;Address&lt;/b&gt;, &lt;b&gt;Prefix Length&lt;/b&gt;, and optionally &lt;b&gt;Gateway&lt;/b&gt; need to be provided.&lt;p&gt;Press OK when you are ready to proceed.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入IPv6 的&lt;b&gt;地址&lt;/b&gt;、&lt;b&gt;前缀长度&lt;/b&gt;，和可选的&lt;b&gt;网关&lt;/b&gt;。&lt;p&gt;准备就绪时，按确定。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="467"/>
         <source>IPv6 Address</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6 地址</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="472"/>
         <source>%1 - Integer Input</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - 数字输入</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="473"/>
         <source>Enter the IPv6 prefix length</source>
-        <translation type="unfinished"></translation>
+        <translation>输入IPv6前缀长度</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="479"/>
         <source>IPv6 Gateway (This is an optional entry)</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6 网关 （可选）</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="574"/>
         <source>&lt;center&gt;No configuration files were found.&lt;br&gt;You may use this dialog to create one.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;center&gt;没有找到配置文件。&lt;br&gt;你可以用这个对话框创建一个。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="580"/>
         <source>%1 - Information</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - 信息</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="581"/>
         <source>&lt;center&gt;Reading configuration file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;center&gt;读取配置文件： %1</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="588"/>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="618"/>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="638"/>
         <source>%1 - Select File</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - 选择文件</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="589"/>
         <source>Select a file to load.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择要加载的文件。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="612"/>
         <source>&lt;center&gt;No configuration files were found.&lt;br&gt;Nothing will be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;center&gt;没有找到配置文件。&lt;br&gt;不会删除任何东西。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="619"/>
         <source>Select a file to be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择要删除的文件。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="639"/>
         <source>Enter a new file name or select&lt;br&gt;an existing file to overwrite.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入新的文件名或选择并&lt;br&gt;替换一个已经存在的文件。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="674"/>
         <source>File read completed</source>
-        <translation type="unfinished"></translation>
+        <translation>文件读取完成</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="687"/>
         <source>File deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>文件已删除</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="689"/>
         <source>Error encountered deleting.</source>
-        <translation type="unfinished"></translation>
+        <translation>删除时发生了错误。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="703"/>
         <source>File save failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件保存失败。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="706"/>
         <source>%L1 KB written</source>
-        <translation type="unfinished"></translation>
+        <translation>%L1 KB 已写入</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="708"/>
         <source>%L1 Bytes written</source>
-        <translation type="unfinished"></translation>
+        <translation>%L1 Bytes 已写入</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="720"/>
         <source> Critical</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">严重</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="721"/>
         <source>&lt;b&gt;DBus Error Name:&lt;/b&gt; %1&lt;br&gt;&lt;br&gt;&lt;b&gt;String:&lt;/b&gt; %2&lt;br&gt;&lt;br&gt;&lt;b&gt;Message:&lt;/b&gt; %3</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;DBus 错误 名称:&lt;/b&gt; %1&lt;br&gt;&lt;br&gt;&lt;b&gt;字符串:&lt;/b&gt; %2&lt;br&gt;&lt;br&gt;&lt;b&gt;信息:&lt;/b&gt; %3</translation>
     </message>
 </context>
 <context>
@@ -2480,7 +2480,7 @@
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="47"/>
         <source>idle</source>
         <comment>connman state string</comment>
-        <translation type="unfinished"></translation>
+        <translation>空闲</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="48"/>
@@ -2492,79 +2492,79 @@
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="49"/>
         <source>configuration</source>
         <comment>connman state string</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">配置</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="50"/>
         <source>ready</source>
         <comment>connman state string</comment>
-        <translation type="unfinished"></translation>
+        <translation>就绪</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="51"/>
         <source>online</source>
         <comment>connman state string</comment>
-        <translation type="unfinished"></translation>
+        <translation>在线</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="52"/>
         <source>disconnect</source>
         <comment>connman state string</comment>
-        <translation type="unfinished"></translation>
+        <translation>断开</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="53"/>
         <source>failure</source>
         <comment>connman state string</comment>
-        <translation type="unfinished"></translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="54"/>
         <source>offline</source>
         <comment>connman state string</comment>
-        <translation type="unfinished"></translation>
+        <translation>离线</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="56"/>
         <source>system</source>
         <comment>connman type string</comment>
-        <translation type="unfinished"></translation>
+        <translation>系统</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="57"/>
         <source>ethernet</source>
         <comment>connman type string</comment>
-        <translation type="unfinished"></translation>
+        <translation>以太网</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="58"/>
         <source>wifi</source>
         <comment>connman type string</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="59"/>
         <source>bluetooth</source>
         <comment>connman type string</comment>
-        <translation type="unfinished"></translation>
+        <translation>蓝牙</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="60"/>
         <source>cellular</source>
         <comment>connman type string</comment>
-        <translation type="unfinished"></translation>
+        <translation>蜂窝数据</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="61"/>
         <source>gps</source>
         <comment>connman type string</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="62"/>
         <source>vpn</source>
         <comment>connman type string</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="63"/>
@@ -2576,103 +2576,103 @@
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="64"/>
         <source>p2p</source>
         <comment>connman type string</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="65"/>
         <source>wired</source>
         <comment>connman type string</comment>
-        <translation type="unfinished"></translation>
+        <translation>有线</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="67"/>
         <source>direct</source>
         <comment>connman proxy string</comment>
-        <translation type="unfinished"></translation>
+        <translation>直接连接</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="68"/>
         <source>manual</source>
         <comment>connman proxy string</comment>
-        <translation type="unfinished"></translation>
+        <translation>手动</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="69"/>
         <source>auto</source>
         <comment>connman proxy string</comment>
-        <translation type="unfinished"></translation>
+        <translation>自动</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="71"/>
         <source>psk</source>
         <comment>connman security string</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="72"/>
         <source>ieee8021x</source>
         <comment>connman security string</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="73"/>
         <source>none</source>
         <comment>connman security string</comment>
-        <translation type="unfinished"></translation>
+        <translation>无</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="74"/>
         <source>wep</source>
         <comment>connman security string</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="76"/>
         <source>Invalid arguments</source>
         <comment>connman error sring</comment>
-        <translation type="unfinished"></translation>
+        <translation>非法参数</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="77"/>
         <source>Permission denied</source>
         <comment>connman error sring</comment>
-        <translation type="unfinished"></translation>
+        <translation>拒绝访问</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="78"/>
         <source>Passphrase required</source>
         <comment>connman error sring</comment>
-        <translation type="unfinished"></translation>
+        <translation>需要密码</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="79"/>
         <source>Not registered</source>
         <comment>connman error sring</comment>
-        <translation type="unfinished"></translation>
+        <translation>未注册</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="80"/>
         <source>Not unique</source>
         <comment>connman error sring</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不唯一</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="81"/>
         <source>Not supported</source>
         <comment>connman error sring</comment>
-        <translation type="unfinished"></translation>
+        <translation>不支持</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="82"/>
         <source>Not implemented</source>
         <comment>connman error sring</comment>
-        <translation type="unfinished"></translation>
+        <translation>未实现</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="83"/>
         <source>Not found</source>
         <comment>connman error sring</comment>
-        <translation type="unfinished"></translation>
+        <translation>未找到</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="84"/>
@@ -2684,61 +2684,61 @@
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="85"/>
         <source>In progress</source>
         <comment>connman error sring</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">进行中</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="86"/>
         <source>Already exists</source>
         <comment>connman error sring</comment>
-        <translation type="unfinished"></translation>
+        <translation>已经存在</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="87"/>
         <source>Already enabled</source>
         <comment>connman error sring</comment>
-        <translation type="unfinished"></translation>
+        <translation>已启用</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="88"/>
         <source>Already disabled</source>
         <comment>connman error sring</comment>
-        <translation type="unfinished"></translation>
+        <translation>已禁用</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="89"/>
         <source>Already connected</source>
         <comment>connman error sring</comment>
-        <translation type="unfinished"></translation>
+        <translation>已连接</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="90"/>
         <source>Not connected</source>
         <comment>connman error sring</comment>
-        <translation type="unfinished"></translation>
+        <translation>未连接</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="91"/>
         <source>Operation aborted</source>
         <comment>connman error sring</comment>
-        <translation type="unfinished"></translation>
+        <translation>操作退出</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="92"/>
         <source>Operation timeout</source>
         <comment>connman error sring</comment>
-        <translation type="unfinished"></translation>
+        <translation>操作超时</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="93"/>
         <source>Invalid service</source>
         <comment>connman error sring</comment>
-        <translation type="unfinished"></translation>
+        <translation>非法服务</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="94"/>
         <source>Invalid property</source>
         <comment>connman error sring</comment>
-        <translation type="unfinished"></translation>
+        <translation>非法属性</translation>
     </message>
 </context>
 <context>
@@ -2746,83 +2746,83 @@
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="66"/>
         <source>Another running instance of CMST has been detected.  This instance is aborting</source>
-        <translation type="unfinished"></translation>
+        <translation>另一个cmst实例正在运行。该实例将退出</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="72"/>
         <source>Connman System Tray.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="75"/>
         <source>[Experimental] Disable data counters.  May be used to minimize load on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>[实验性] 禁用数据统计。  可能减轻系统负载。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="79"/>
         <source>Disable the system tray icon.  May be needed for system trays not compliant with the Freedesktop.org system tray specification.</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用系统托盘图标。  可能在系统托盘不符合 Freedesktop.org system tray 规范时需要。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="85"/>
         <source>Use the icon theme from your system if one is defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>若存在，使用系统图标主题。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="89"/>
         <source>Log the connman inputRequest for debugging purposes.</source>
-        <translation type="unfinished"></translation>
+        <translation>记录connman的inputRequest日志以供调试。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="93"/>
         <source>Start the GUI minimized in the system tray.</source>
-        <translation type="unfinished"></translation>
+        <translation>启动GUI时最小化到系统托盘。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="99"/>
         <source>Specify the wait time in seconds before starting the system tray icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>指定系统托盘启动钱的等待时间，以秒为单位。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="100"/>
         <location filename="../apps/cmstapp/code/main.cpp" line="112"/>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>秒</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="105"/>
         <source>[Experimental] The number of kb that have to be transmitted before the counter updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>[实验性] 统计更新前传输的数据量，以kb为单位。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="106"/>
         <source>KB</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="111"/>
         <source>[Experimental] The interval in seconds between counter updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>[实验性] 统计更新的间隔时间，以秒为单位。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="118"/>
         <source>If tray icon fake transparency is required, specify the background color to use (format: 0xRRGGBB)</source>
-        <translation type="unfinished"></translation>
+        <translation>如果托盘图标需要伪装背景透明，指定要使用的背景颜色 （格式：0xRRGGBB）</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="119"/>
         <source>RRGGBB</source>
-        <translation type="unfinished"></translation>
+        <translation>RRGGBB</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="126"/>
         <source>Use XFCE specific code.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用为XFCE准备的代码。</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="131"/>
         <source>Use MATE DE specific code.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用为MATE准备的代码。</translation>
     </message>
 </context>
 </TS>
